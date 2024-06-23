@@ -1,0 +1,245 @@
+
+   [
+    {
+        "id": "Hogar-01",
+        "titulo": "Cuadro de flores",
+        "imagen": "./img/Hogar/cuadro_flores.jpeg",
+        "categoria": {
+            "nombre": "Cuadro de flores",
+            "id": "Hogar"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "Hogar-02",
+        "titulo": "Cuadro de lobos",
+        "imagen": "./img/Hogar/cuadro_lobo.jpeg",
+        "categoria": {
+            "nombre": "Cuadro de lobos",
+            "id": "Hogar"
+        },
+        "precio": 100000
+    },
+    {
+        "id": "Hogar-03",
+        "titulo": "Comedor madera 1",
+        "imagen": "./img/Hogar/comedor1.jpeg",
+        "categoria": {
+            "nombre": "Comedor tipo 1",
+            "id": "Hogar"
+        },
+        "precio": 1500000
+    },
+    {
+        "id": "Hogar-04",
+        "titulo": "Comedor madera 2",
+        "imagen": "./img/Hogar/comedor2.jpeg",
+        "categoria": {
+            "nombre": "Comedor tipo 2",
+            "id": "Hogar"
+        },
+        "precio": 1700000
+    },
+    {
+        "id": "Hogar-05",
+        "titulo": "Mesa minimalista",
+        "imagen": "./img/Hogar/mesaMinimalista.jpeg",
+        "categoria": {
+            "nombre": "Mesa minimalista",
+            "id": "Hogar"
+        },
+        "precio": 800000
+    },
+    {
+        "id": "Hogar-06",
+        "titulo": "Sala blanca",
+        "imagen": "./img/Hogar/sala_blanca.jpeg",
+        "categoria": {
+            "nombre": "Sala blanca",
+            "id": "Hogar"
+        },
+        "precio": 2500000
+    },
+    {
+        "id": "Hogar-07",
+        "titulo": "Sala morada",
+        "imagen": "./img/Hogar/sala_morada.jpeg",
+        "categoria": {
+            "nombre": "Sala morada",
+            "id": "Hogar"
+        },
+        "precio": 2300000
+    },
+    {
+        "id": "Hogar-08",
+        "titulo": "Sala Blanca con negro",
+        "imagen": "./img/Hogar/salaBlancaNegro.jpeg",
+        "categoria": {
+            "nombre": "Sala Blanca con negro",
+            "id": "Hogar"
+        },
+        "precio": 2400000
+    },
+
+
+    {
+        "id": "Automoviles-01",
+        "titulo": "BMW X4",
+        "imagen": "./img/Automoviles/bmwx4.jpg",
+        "categoria": {
+            "nombre": "Automóviles",
+            "id": "Automoviles"
+        },
+        "precio": 150000000
+    },
+    {
+        "id": "Automoviles-02",
+        "titulo": "BMW X5",
+        "imagen": "./img/Automoviles/bmwx5.jpg",
+        "categoria": {
+            "nombre": "Automóviles",
+            "id": "Automoviles"
+        },
+        "precio": 200000000
+    },
+    {
+        "id": "Automoviles-03",
+        "titulo": "Ford Fiesta",
+        "imagen": "./img/Automoviles/ford_fiesta.jpeg",
+        "categoria": {
+            "nombre": "Automóviles",
+            "id": "Automoviles"
+        },
+        "precio": 80000000
+    },
+    {
+        "id": "Automoviles-04",
+        "titulo": "Mazda 3 2020",
+        "imagen": "./img/Automoviles/mazda3_2020.jpeg",
+        "categoria": {
+            "nombre": "Automóviles",
+            "id": "Automoviles"
+        },
+        "precio": 90000000
+    },
+    {
+        "id": "Automoviles-05",
+        "titulo": "Mazda 3",
+        "imagen": "./img/Automoviles/mazda3.jpeg",
+        "categoria": {
+            "nombre": "Automóviles",
+            "id": "Automoviles"
+        },
+        "precio": 85000000
+    },
+    {
+        "id": "Automoviles-06",
+        "titulo": "Moto CF",
+        "imagen": "./img/Automoviles/motoCF.jpeg",
+        "categoria": {
+            "nombre": "Automóviles",
+            "id": "Automoviles"
+        },
+        "precio": 25000000
+    },
+    {
+        "id": "Automoviles-07",
+        "titulo": "Toyota híbrido",
+        "imagen": "./img/Automoviles/toyota_hibrido.jpeg",
+        "categoria": {
+            "nombre": "Automóviles",
+            "id": "Automoviles"
+        },
+        "precio": 120000000
+    },
+    {
+        "id": "Automoviles-08",
+        "titulo": "Toyota Hilux",
+        "imagen": "./img/Automoviles/toyota_hilux.jpeg",
+        "categoria": {
+            "nombre": "Automóviles",
+            "id": "Automoviles"
+        },
+        "precio": 130000000
+    },
+    {
+        "id": "Tecnologia-01",
+        "titulo": "iPhone 12 Pro",
+        "imagen": "./img/Tecnologia/ip12pro.jpg",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "Tecnologia"
+        },
+        "precio": 4000000
+    },
+    {
+        "id": "Tecnologia-02",
+        "titulo": "iPhone 15 Pro",
+        "imagen": "./img/Tecnologia/ip15pro.jpg",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "Tecnologia"
+        },
+        "precio": 7000000
+    },
+    {
+        "id": "Tecnologia-03",
+        "titulo": "iPhone 11",
+        "imagen": "./img/Tecnologia/iphone11.jpeg",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "Tecnologia"
+        },
+        "precio": 3000000
+    },
+    {
+        "id": "Tecnologia-04",
+        "titulo": "iPhone 12",
+        "imagen": "./img/Tecnologia/iphone12.jpg",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "Tecnologia"
+        },
+        "precio": 3500000
+    },
+    {
+        "id": "Tecnologia-05",
+        "titulo": "Samsung A11",
+        "imagen": "./img/Tecnologia/samsungA11.jpeg",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "Tecnologia"
+        },
+        "precio": 1200000
+    },
+    {
+        "id": "Tecnologia-06",
+        "titulo": "Samsung A22",
+        "imagen": "./img/Tecnologia/samsungA22.jpg",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "Tecnologia"
+        },
+        "precio": 1500000
+    },
+    {
+        "id": "Tecnologia-07",
+        "titulo": "Samsung A23",
+        "imagen": "./img/Tecnologia/samsunga23.jpg",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "Tecnologia"
+        },
+        "precio": 1800000
+    },
+    {
+        "id": "Tecnologia-08",
+        "titulo": "Xiaomi 1",
+        "imagen": "./img/Tecnologia/xioami1.jpg",
+        "categoria": {
+            "nombre": "Tecnología",
+            "id": "Tecnologia"
+        },
+        "precio": 1100000
+    }
+]
